@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "rbxnc": {
+      "commandName": "Project",
+      "commandLineArgs": "../Main.client.cs -o ../"
+    }
+  }
+}

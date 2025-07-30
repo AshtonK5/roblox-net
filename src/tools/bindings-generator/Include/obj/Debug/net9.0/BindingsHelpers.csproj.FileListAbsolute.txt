@@ -1,0 +1,15 @@
+C:\Users\ashto\OneDrive\Desktop\roblox-net\src\tools\bindings-generator\Include\obj\Debug\net9.0\BindingsHelpers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ashto\OneDrive\Desktop\roblox-net\src\tools\bindings-generator\Include\obj\Debug\net9.0\BindingsHelpers.AssemblyInfoInputs.cache
+C:\Users\ashto\OneDrive\Desktop\roblox-net\src\tools\bindings-generator\Include\obj\Debug\net9.0\BindingsHelpers.AssemblyInfo.cs
+C:\Users\ashto\OneDrive\Desktop\roblox-net\src\tools\bindings-generator\Include\obj\Debug\net9.0\BindingsHelpers.csproj.CoreCompileInputs.cache
+C:\Users\ashto\OneDrive\Desktop\roblox-net\src\tools\bindings-generator\Include\bin\Debug\net9.0\BindingsHelpers.deps.json
+C:\Users\ashto\OneDrive\Desktop\roblox-net\src\tools\bindings-generator\Include\bin\Debug\net9.0\BindingsHelpers.dll
+C:\Users\ashto\OneDrive\Desktop\roblox-net\src\tools\bindings-generator\Include\bin\Debug\net9.0\BindingsHelpers.pdb
+C:\Users\ashto\OneDrive\Desktop\roblox-net\src\tools\bindings-generator\Include\bin\Debug\net9.0\RobloxEngine.dll
+C:\Users\ashto\OneDrive\Desktop\roblox-net\src\tools\bindings-generator\Include\bin\Debug\net9.0\RobloxEngine.pdb
+C:\Users\ashto\OneDrive\Desktop\roblox-net\src\tools\bindings-generator\Include\obj\Debug\net9.0\BindingsHelpers.csproj.AssemblyReference.cache
+C:\Users\ashto\OneDrive\Desktop\roblox-net\src\tools\bindings-generator\Include\obj\Debug\net9.0\Bindings.7C555841.Up2Date
+C:\Users\ashto\OneDrive\Desktop\roblox-net\src\tools\bindings-generator\Include\obj\Debug\net9.0\BindingsHelpers.dll
+C:\Users\ashto\OneDrive\Desktop\roblox-net\src\tools\bindings-generator\Include\obj\Debug\net9.0\refint\BindingsHelpers.dll
+C:\Users\ashto\OneDrive\Desktop\roblox-net\src\tools\bindings-generator\Include\obj\Debug\net9.0\BindingsHelpers.pdb
+C:\Users\ashto\OneDrive\Desktop\roblox-net\src\tools\bindings-generator\Include\obj\Debug\net9.0\ref\BindingsHelpers.dll

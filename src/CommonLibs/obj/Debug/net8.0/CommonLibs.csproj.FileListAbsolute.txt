@@ -1,0 +1,17 @@
+C:\Users\ashto\OneDrive\Desktop\roblox-net\src\CommonLibs\bin\Debug\net8.0\CommonLibs.deps.json
+C:\Users\ashto\OneDrive\Desktop\roblox-net\src\CommonLibs\bin\Debug\net8.0\CommonLibs.dll
+C:\Users\ashto\OneDrive\Desktop\roblox-net\src\CommonLibs\bin\Debug\net8.0\CommonLibs.pdb
+C:\Users\ashto\OneDrive\Desktop\roblox-net\src\CommonLibs\obj\Debug\net8.0\CommonLibs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ashto\OneDrive\Desktop\roblox-net\src\CommonLibs\obj\Debug\net8.0\CommonLibs.AssemblyInfoInputs.cache
+C:\Users\ashto\OneDrive\Desktop\roblox-net\src\CommonLibs\obj\Debug\net8.0\CommonLibs.AssemblyInfo.cs
+C:\Users\ashto\OneDrive\Desktop\roblox-net\src\CommonLibs\obj\Debug\net8.0\CommonLibs.csproj.CoreCompileInputs.cache
+C:\Users\ashto\OneDrive\Desktop\roblox-net\src\CommonLibs\obj\Debug\net8.0\CommonLibs.dll
+C:\Users\ashto\OneDrive\Desktop\roblox-net\src\CommonLibs\obj\Debug\net8.0\refint\CommonLibs.dll
+C:\Users\ashto\OneDrive\Desktop\roblox-net\src\CommonLibs\obj\Debug\net8.0\CommonLibs.pdb
+C:\Users\ashto\OneDrive\Desktop\roblox-net\src\CommonLibs\obj\Debug\net8.0\ref\CommonLibs.dll
+C:\Users\ashto\OneDrive\Desktop\roblox-net\binaries\Debug\net8.0\CommonLibs.deps.json
+C:\Users\ashto\OneDrive\Desktop\roblox-net\binaries\Debug\net8.0\CommonLibs.dll
+C:\Users\ashto\OneDrive\Desktop\roblox-net\binaries\Debug\net8.0\CommonLibs.pdb
+C:\Users\ashto\OneDrive\Desktop\roblox-net\binaries\CommonLibs\Debug\net8.0\CommonLibs.deps.json
+C:\Users\ashto\OneDrive\Desktop\roblox-net\binaries\CommonLibs\Debug\net8.0\CommonLibs.dll
+C:\Users\ashto\OneDrive\Desktop\roblox-net\binaries\CommonLibs\Debug\net8.0\CommonLibs.pdb

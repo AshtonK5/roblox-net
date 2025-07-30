@@ -1,0 +1,14 @@
+C:\Users\ashto\OneDrive\Desktop\roblox-net\src\tools\bindings-generator\obj\Release\net9.0\bindings-generator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ashto\OneDrive\Desktop\roblox-net\src\tools\bindings-generator\obj\Release\net9.0\bindings-generator.AssemblyInfoInputs.cache
+C:\Users\ashto\OneDrive\Desktop\roblox-net\src\tools\bindings-generator\obj\Release\net9.0\bindings-generator.AssemblyInfo.cs
+C:\Users\ashto\OneDrive\Desktop\roblox-net\src\tools\bindings-generator\obj\Release\net9.0\bindings-generator.csproj.CoreCompileInputs.cache
+C:\Users\ashto\OneDrive\Desktop\roblox-net\src\tools\bindings-generator\binaries\net9.0\bindings-generator.exe
+C:\Users\ashto\OneDrive\Desktop\roblox-net\src\tools\bindings-generator\binaries\net9.0\bindings-generator.deps.json
+C:\Users\ashto\OneDrive\Desktop\roblox-net\src\tools\bindings-generator\binaries\net9.0\bindings-generator.runtimeconfig.json
+C:\Users\ashto\OneDrive\Desktop\roblox-net\src\tools\bindings-generator\binaries\net9.0\bindings-generator.dll
+C:\Users\ashto\OneDrive\Desktop\roblox-net\src\tools\bindings-generator\binaries\net9.0\bindings-generator.pdb
+C:\Users\ashto\OneDrive\Desktop\roblox-net\src\tools\bindings-generator\obj\Release\net9.0\bindings-generator.dll
+C:\Users\ashto\OneDrive\Desktop\roblox-net\src\tools\bindings-generator\obj\Release\net9.0\refint\bindings-generator.dll
+C:\Users\ashto\OneDrive\Desktop\roblox-net\src\tools\bindings-generator\obj\Release\net9.0\bindings-generator.pdb
+C:\Users\ashto\OneDrive\Desktop\roblox-net\src\tools\bindings-generator\obj\Release\net9.0\bindings-generator.genruntimeconfig.cache
+C:\Users\ashto\OneDrive\Desktop\roblox-net\src\tools\bindings-generator\obj\Release\net9.0\ref\bindings-generator.dll

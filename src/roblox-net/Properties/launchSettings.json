@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "roblox-net": {
+      "commandName": "Project",
+      "commandLineArgs": "new ../test"
+    }
+  }
+}
